@@ -10,3 +10,6 @@
 [submodule "FillTheWalls-CS2341"]
 	path = FillTheWalls-CS2341
 	url = https://github.com/sethpotter/FillTheWalls
+[submodule "SearchEngine-CS2341"]
+	path = SearchEngine-CS2341
+	url = https://github.com/sethpotter/SearchEngine-CS2341
