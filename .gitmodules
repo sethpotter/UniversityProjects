@@ -4,3 +4,6 @@
 [submodule "DB-GUI-F21"]
 	path = DB-GUI-F21
 	url = https://github.com/sethpotter/DB-GUI-F21.git
+[submodule "CS2240-Assembly"]
+	path = CS2240-Assembly
+	url = https://github.com/sethpotter/CS2240.git
