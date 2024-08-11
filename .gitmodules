@@ -7,3 +7,6 @@
 [submodule "CS2240-Assembly"]
 	path = CS2240-Assembly
 	url = https://github.com/sethpotter/CS2240.git
+[submodule "FillTheWalls-CS2341"]
+	path = FillTheWalls-CS2341
+	url = https://github.com/sethpotter/FillTheWalls
