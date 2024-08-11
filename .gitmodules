@@ -13,3 +13,9 @@
 [submodule "SearchEngine-CS2341"]
 	path = SearchEngine-CS2341
 	url = https://github.com/sethpotter/SearchEngine-CS2341
+[submodule "AutoIndexer-CS2341"]
+	path = AutoIndexer-CS2341
+	url = https://github.com/sethpotter/AutoIndexer-CS2341.git
+[submodule "SortAnalysis-CS2341"]
+	path = SortAnalysis-CS2341
+	url = https://github.com/sethpotter/SortAnalysis-CS2341
