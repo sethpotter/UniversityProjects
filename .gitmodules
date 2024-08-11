@@ -1,0 +1,6 @@
+[submodule "RoomMe"]
+	path = RoomMe
+	url = https://github.com/sethpotter/RoomMe.git
+[submodule "DB-GUI-F21"]
+	path = DB-GUI-F21
+	url = https://github.com/sethpotter/DB-GUI-F21.git
